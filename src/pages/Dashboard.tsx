@@ -66,9 +66,8 @@ const Dashboard = () => {
         {/* Welcome Card */}
         <Card className="mb-8 border-border/50 bg-card/95 backdrop-blur">
           <CardContent className="p-6 text-center">
-            <h2 className="text-xl font-semibold text-primary mb-2">Welcome rto156xp</h2>
             <p className="text-sm text-muted-foreground mb-1">{currentDate}</p>
-            <p className="text-lg font-bold text-foreground">Total Installs: 447</p>
+            <p className="text-lg font-bold text-foreground">Total Installs: 1</p>
           </CardContent>
         </Card>
 
